@@ -22,4 +22,8 @@ The CRM meeting reports were all formatted correctly and did a good job of ident
 
 ## What limitations remain
 
-The limitations that remain are meeting notes that don't explicitly specify when it is a customer meeting and when it is an internal meeting; however, the skill states this limitation and does not generate a CRM meeting report as a result. 
+The limitations that remain are meeting notes that don't explicitly specify when it is a customer meeting and when it is an internal meeting; however, the skill states this limitation and does not generate a CRM meeting report as a result. The skill is also limited to just customer meetings so it will not generate a report for something that is explicitly stated is not a customer meeting. 
+
+## Presentation Video
+
+https://youtu.be/tqO8OEYPX30
