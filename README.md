@@ -2,7 +2,7 @@
 
 ## What the skill does
 
-The skill takes meeting notes from meeting with customers and generates a CRM Meeting Report in a specific format of a CRM Meeting Report title, the date of the customer meeting, the location of the customer meeting, a section for meeting participants with their names, titles, and company affiliation, and a section for the key topics that were discussed during the meeting. 
+The skill creates a short, quality CRM meeting report in a standardized format. You use when notes from customer meetings are available that have meeting participant details and key discussion topics. The specific format includes a CRM Meeting Report title, the date of the customer meeting, the location of the customer meeting, a section for meeting participants with their names, titles, and company affiliation, and a section for the key topics that were discussed during the meeting.  
 
 ## Why I chose this skill
 
