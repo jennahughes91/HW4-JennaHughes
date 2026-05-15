@@ -14,7 +14,7 @@ You enter your customer meeting notes that include meeting participant details a
 
 ## What the skill's script does
 
-The skill's script lays out how the report needs to be built with formatting and what fields need to be where. 
+The skill's python script lays out how the report needs to be built with formatting and what fields need to be where. 
 
 ## What worked well
 
