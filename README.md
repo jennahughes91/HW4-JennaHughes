@@ -18,7 +18,8 @@ The skill's python script lays out how the report needs to be built with formatt
 
 ## What worked well
 
-
+The CRM meeting reports were all formatted correctly and did a good job of identifying the correct fields and putting them in the correct place in the report. It does a good job of identifying where details aren't explicitly stated in the meeting notes and not creating information in the report that was not present within the meeting notes. 
 
 ## What limitations remain
 
+The limitations that remain are meeting notes that don't explicitly specify when it is a customer meeting and when it is an internal meeting; however, the skill states this limitation and does not generate a CRM meeting report as a result. 
