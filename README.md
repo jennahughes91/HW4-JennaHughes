@@ -10,7 +10,7 @@ I chose this skill because I recently took on an additional role at work of over
 
 ## How to use the skill
 
-You enter your customer meeting notes into the ai agent that then uses the skill to generate the CRM Meeting Report in a specific format. 
+You enter your customer meeting notes that include meeting participant details and key discussion topics into the ai agent, like Claude, that then uses the skill to generate the CRM Meeting Report in a specific format. 
 
 ## What the skill's script does
 
